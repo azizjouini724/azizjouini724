@@ -106,17 +106,27 @@ Member and participant in the Women in Engineering initiative as a project manag
 - Modern web and mobile development.
 - Docker and microservices.
 
-## GitHub Analytics
+### GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=azizjouini724&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=azizjouini724&theme=tokyonight" alt="GitHub Streak" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizjouini724&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=azizjouini724&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## Contribution Snake
 
