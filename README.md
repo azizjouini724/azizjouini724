@@ -152,7 +152,12 @@ Member and participant in the Women in Engineering initiative as a project manag
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=azizjouini724&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
+<a href="https://github.com/azizjouini724?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/azizjouini724?style=for-the-badge&logo=github&label=Followers&color=2563EB"
+    alt="GitHub followers"
+  />
+</a>
 
 **Thanks for visiting my profile!**
 
