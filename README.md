@@ -122,7 +122,11 @@ Member and participant in the Women in Engineering initiative as a project manag
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/azizjouini724/azizjouini724/output/snake.svg" alt="Contribution Snake Animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizjouini724/azizjouini724/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azizjouini724/azizjouini724/output/snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/azizjouini724/azizjouini724/output/snake.svg" width="100%" />
+</picture>
 
 </div>
 
