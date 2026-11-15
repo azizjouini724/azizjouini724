@@ -147,6 +147,7 @@ Member and participant in the Women in Engineering initiative as a project manag
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-jouini-650815361/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azizjouini724)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://azizjouini724.github.io/portfolio/)
 
 </div>
 
